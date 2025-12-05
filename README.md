@@ -22,5 +22,4 @@ Creative Commons CC BY-SA 3.0
 https://creativecommons.org/licenses/by-sa/3.0/
 --------------------------------------------------------------
 
-Some images i download from https://github.com/ImKennyYip/pygame.
-If you have any questions, send pull reqests to me.
+Some images i downloaded from https://github.com/ImKennyYip/pygame.
